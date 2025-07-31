@@ -1,0 +1,14 @@
+{
+  "env": {
+    "NEXT_PUBLIC_SUPABASE_URL": "",
+    "NEXT_PUBLIC_SUPABASE_ANON_KEY": "",
+    "SUPABASE_SERVICE_ROLE_KEY": "",
+    "MONGODB_URI": "",
+    "OPENAI_API_KEY": "",
+    "N8N_WEBHOOK_URL": "",
+    "N8N_WEBHOOK_TEST_URL": "",
+    "NEXT_PUBLIC_COHERE_API_KEY": "",
+    "ENABLE_DATABASE": "",
+    "NEXT_PUBLIC_SITE_URL": ""
+  }
+} 
